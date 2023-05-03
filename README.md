@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://www.codementor.io/@mnyongrandkru?refer=badge"><img src="https://www.codementor.io/m-badges/mnyongrandkru/im-a-cm-b.svg" alt="Codementor badge">I'm Mentoring on codementor.io</a>
+<a href="https://www.codementor.io/@mnyongrandkru?refer=badge"><img src="https://www.codementor.io/m-badges/mnyongrandkru/im-a-cm-b.svg" alt="Codementor badge"></a>
 <!--
 **mnyon-grandkru/mnyon-grandkru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
