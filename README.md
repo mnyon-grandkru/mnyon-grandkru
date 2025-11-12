@@ -28,7 +28,7 @@ I'm passionate about using technology to make a real, positive difference—espe
 
 ### 📫 Get in Touch
 
-- Find me on GitHub, or [add your preferred contact method if you'd like]
+- Find me on GitHub, or mark[at]grandkru.com
 
 ---
 
