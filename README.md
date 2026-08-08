@@ -18,11 +18,9 @@ I'm passionate about using technology to make a real, positive difference—espe
 
 ---
 
-### Always Learning
+### Featured Project
 
-- Experimenting with new frameworks and approaches
-- Seeking projects that have purpose and community impact
-- Connecting with other builders and change-makers
+[**EBWiki**](https://github.com/EBWiki/EBWiki) — a community-driven repository of police abuse cases against people of color, built and maintained with real contributors (100+ forks, 80+ stars)
 
 ---
 
