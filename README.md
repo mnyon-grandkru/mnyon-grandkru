@@ -20,7 +20,7 @@ I'm passionate about using technology to make a real, positive difference—espe
 
 ### Featured Project
 
-[**EBWiki**](https://github.com/EBWiki/EBWiki) — a community-driven repository of police abuse cases against people of color, built and maintained with real contributors (100+ forks, 80+ stars)
+[**EBWiki**](https://github.com/EBWiki/EBWiki) — a community-driven repository of police abuse cases against people of color, built and maintained with real contributors 
 
 ---
 
