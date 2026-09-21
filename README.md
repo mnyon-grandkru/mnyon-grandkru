@@ -1,33 +1,21 @@
-# Hi, I’m Mark Nyon 
+# Hi, I'm Mark Nyon
 
-Developer based in New York 
+**Remote builder** and AI trainer at **Grand Kru Technologies**.
 
----
+I came up through **technology** and spent **10 years in activism and community work**, and have been building useful systems since **2001**. Public GitHub trail since **2008** (earlier work under [`trystant`](https://github.com/trystant)). That path still shapes how I work: clear goals, fair evaluation, and tools people can actually use.
 
-### Tech Stack
+These days I split time between **shipping software** and **AI training and evaluation**. Reviewing model output, tightening tasks and rubrics, and building systems around that loop.
 
-- **Favorite frameworks:** Ruby on Rails, Node.js
-- **Experience with:** (and always exploring more!)  
-  JavaScript, Ruby, Python, React, TypeScript, PostgreSQL, AWS, and more.
+A long-running example of the activism thread: [EBWiki](https://github.com/EBWiki/EBWiki), a community-built record of police violence cases.
 
----
+### Focus
+- Building useful systems (remote)
+- Activism and civic tech (people who usually get overlooked)
+- AI training and evaluation
+- Community-centered work
 
-### About Me
-
-I'm passionate about using technology to make a real, positive difference—especially for people and communities that have been underserved or overlooked. Whether I'm building tools for good, collaborating with mission-driven teams, or learning new stacks, I’m always looking for ways to elevate people with code.
-
----
-
-### Featured Project
-
-[**EBWiki**](https://github.com/EBWiki/EBWiki) — a community-driven repository of police abuse cases against people of color, built and maintained with real contributors 
-
----
-
-### Get in Touch
-
-- Find me on GitHub, or mark[at]grandkru.com
-
----
-
-Thanks for stopping by! 
+### Elsewhere
+- Earlier repos: [github.com/trystant](https://github.com/trystant)
+- Site (legacy): [trystant.github.io](https://trystant.github.io) (Technologist · Educator)
+- Blog: [blog.grandkru.com](https://blog.grandkru.com)
+- Email: mark@grandkru.com
